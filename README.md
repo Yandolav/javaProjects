@@ -1,3 +1,3 @@
-# javaProjects
+# Java Project
 
-### 1.[RoadRestrictions](https://github.com/Yandolav/javaProjects/tree/main/RoadRestrictions)
+### [1.Дорожные Ограничения](https://github.com/Yandolav/javaProjects/tree/main/RoadRestrictions)
